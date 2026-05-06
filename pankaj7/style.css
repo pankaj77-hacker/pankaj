@@ -1,0 +1,58 @@
+h1{
+
+	color:red;
+}
+.india{
+
+border-radius: 50%;
+
+}
+.main{
+	margin-left:30%;
+	background:lightblue;
+	padding: 50px 50px;
+	width: 50%;
+
+}
+.h2{
+	background-color:lightgrey;
+	padding:  30px;
+	height:10px;
+}
+.h3{
+	background-color: lightgrey;
+	padding:  30px;
+	font-size: 20px;
+}
+.h4{
+background-color: lightgrey;
+	padding: 30px;
+	font-size: 20px;
+}
+.h5{
+	background-color: lightgrey;
+	padding: 30px;
+	font-size: 20px;
+}
+.h6{
+	background-color:lightgrey;
+	padding: 30px;
+	font-size: 20px;
+}
+.h9{
+	background-color:lightgrey;
+	padding: 30px;
+	font-size: 20px;
+}
+.h8{
+	background-color: lightgrey;
+	padding: 30px;
+	font-size: 20px;
+}
+.heading1{ text-align:center; }
+.imggg{
+	text-align: center;
+	border-radius: 70%;
+	width: 200px;
+	margin-left: 32%;
+}

@@ -1,0 +1,100 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.p1{
+border-radius: 20px;
+width: 300px;
+background-color:white;
+margin-bottom: 10px;
+cursor: pointer;
+padding:40PX;
+box-shadow: 0 0 5px black;
+
+
+
+}
+
+ .h2{
+ text-align: center; 
+color: white;
+  }
+  .head{
+  	background-color: darkred;
+    height: 200px;
+  }
+  .text1{
+  	text-align: center;
+  	list-style: none;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    gap: -30px;
+    padding: 10px;
+    font-size: 30px;
+
+  }
+  .footer{
+  	background-color: darkred;
+  	height: 40vh;
+  	font-size: 40px;
+  	text-align: center;
+  }
+  .part1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  
+    }
+
+  
+    .part2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+  }
+  
+  .h1{
+    text-align: center;
+    color: black;
+    margin-bottom: 10px;
+    font-size: 30px;
+
+  }
+ 
+  .footer{
+    color: purple;
+    font-size:180%;
+    padding: 20px;
+    height:250px;
+    
+  }
+.h3{
+  color: whitesmoke;
+}
+.main{background-color: whitesmoke;
+  width: 100vw;
+
+padding: 25PX;
+
+}
+.p1:hover{background-color:darkred;
+  color: whitesmoke;
+
+}
+.navbar{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+.p9{
+  margin-left: 20px;
+  font-size: 20px ;
+
+
+}

@@ -1,0 +1,43 @@
+.h1{
+	text-color: red;
+}
+
+table{border-collapse:collapse;
+}
+table,th,td{ border:1px solid black }
+.container{background-color: darkblue;}
+
+
+.row1{
+	background-color: cyan;
+
+}
+h1{
+	color:cyan;
+	text-align: center;
+}
+th{
+	padding: 15px;
+}
+.p1{ text-align:center;
+color:white;}
+.text{ text-align:center;
+color:white;
+}
+.table1{
+	text-align: center;
+
+}
+.container{ text-align:center;
+padding:50px;
+margin:20px; 
+border-radius: 10px;}
+.table1{ 
+margin:auto;}
+table,td{ color:darkblue;
+background-color:white; }
+button{
+	background-color:darkblue;
+	color: cyan;
+}
+body{ background-image:linear-gradient(darkgrey,skyblue);}

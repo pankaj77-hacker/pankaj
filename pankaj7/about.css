@@ -1,0 +1,49 @@
+.h1{
+	text-align: center;
+	font-family:cursive;
+	color: white;
+}
+.h2{ 
+text-align:center; 
+font-family: cursive;
+color: white;
+
+
+}
+body{
+	background-color: purple;
+}
+.container{
+	background: lightcyan;
+
+	padding: 20px;
+	width: 50%;
+	display: auto;
+	display: inline-block;
+	background: #6f42c1;/*light purple*/
+	margin-left:200px;
+
+}
+img{
+	width: 300px;
+	margin:20px;
+
+
+}
+.computer{
+	display: inline-block;
+
+
+}
+.box{
+	gap: 200px;
+
+
+
+}
+.text{
+	color: white;
+}
+.box{
+	background: #6f42c1;/*light purple*/
+}
